@@ -1,6 +1,6 @@
 ## Task description
 
-Collect top 1000 companies from [USA Spending](https://www.usaspending.gov/recipient) according to awarded amount in the last 12 months
+Collect top 1000 parent companies from [USA Spending](https://www.usaspending.gov/recipient) according to awarded amount in the last 12 months
 
 For each company collect:
 
